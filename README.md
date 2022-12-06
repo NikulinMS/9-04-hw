@@ -35,3 +35,4 @@
 ### Задание 5*
 
 ![Grafana_dashboard.png](img%2FGrafana_dashboard.png)
+![Grafana_dashboard_2.png](img%2FGrafana_dashboard_2.png)
